@@ -27,14 +27,11 @@ student-management-system/
 │
 ├── app.py
 ├── templates/
-│   ├── home.html
-│   ├── register.html
-│   ├── login.html
-│   └── dashboard.html
-│
-├── static/
-│   └── style.css
-│
+|   ├── home.html
+|   ├── register.html
+|   ├── login.html
+|   └── dashboard.html
+|
 └── README.md
 
 ---
